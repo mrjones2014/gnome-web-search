@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.websearch" path="/org/gnome/shell/extensions/websearch/">
+    <key name="search-engine" type="i">
+      <default>0</default>
+    </key>
+  </schema>
+</schemalist>

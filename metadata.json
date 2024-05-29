@@ -1,0 +1,11 @@
+{
+  "name": "GNOME Web Search",
+  "description": "Web search fallback for GNOME Super key search",
+  "uuid": "web@search-provider",
+  "shell-version": [
+    "45",
+    "46"
+  ],
+  "url": "https://github.com/mrjones2014/gnome-web-search",
+  "settings-schema": "org.gnome.shell.extensions.websearch"
+}

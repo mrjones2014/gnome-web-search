@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "outDir": "./dist",
+    "sourceMap": false,
+    "strict": false,
+    "target": "ES2022",
+    "lib": [
+      "ES2022"
+    ]
+  },
+  "include": [
+    "ambient.d.ts"
+  ],
+  "files": [
+    "extension.ts",
+    "prefs.ts"
+  ]
+}
