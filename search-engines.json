@@ -1,0 +1,27 @@
+[
+  {
+    "name": "DuckDuckGo",
+    "url": "https://www.duckduckgo.com/?q=",
+    "icon": "icons/duckduckgo.png"
+  },
+  {
+    "name": "Brave",
+    "url": "https://search.brave.com/search?q=",
+    "icon": "icons/brave.png"
+  },
+  {
+    "name": "Startpage",
+    "url": "https://www.startpage.com/search?q=",
+    "icon": "icons/startpage.png"
+  },
+  {
+    "name": "Kagi",
+    "url": "https://kagi.com/search?q=",
+    "icon": "icons/kagi.png"
+  },
+    {
+    "name": "Google",
+    "url": "https://www.google.com/search?q=",
+    "icon": "icons/google.png"
+  }
+]

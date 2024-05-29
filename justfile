@@ -8,6 +8,6 @@ build-schemas:
 build-ts: build-schemas
 	tsc
 
-zip: build-ts
-	cp metadata.json ./dist/
-	zip ./websearch.zip -9r ./dist
+pack: build-ts
+	cp ./search-engines.json ./dist/
+	cp -r ./icons/ ./dist/
